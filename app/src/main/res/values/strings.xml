@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Termos de Uso</string>
+    <string name="app_terms">Ao continuar, declaro que estou ciente e aceito os termos de uso do produto</string>
+
+    <string name="popup_txt_title">Termo de uso</string>
+    <string name="popup_txt_description">Ao continuar, declaro que estou ciente e aceito os <a href="http://regras.uol.com.br/">termos de uso do produto</a></string>
+    <string name="popup_btn_cancel">Cancelar</string>
+    <string name="popup_btn_ok">OK</string>
+</resources>
